@@ -3,4 +3,4 @@
 
  Repositório Criado para novos projetos
  
- modificação feita diramente pelo GhitHub, para testes.
+ Modificação feita diramente pelo GitHub, para testes!
